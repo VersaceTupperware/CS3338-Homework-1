@@ -1,0 +1,83 @@
+commit 1fa70ed15760ee073a950e53b2f0c73289bc2332
+Author: VersaceTupperware <zeber187@yahoo.com>
+Date:   Tue Sep 9 23:11:51 2025 -0700
+
+    Adding 2 new files to main branch
+    
+    Adding and commiting git_log.txt and repo-location.txt to main
+
+commit 961bdcf2ef479c7685ad6b2bcce3ea16b614f9ef
+Merge: 91490e3 2f82a3c
+Author: VersaceTupperware <zeber187@yahoo.com>
+Date:   Tue Sep 9 23:07:59 2025 -0700
+
+    On main: !!GitHub_Desktop<main>
+
+commit 2f82a3c6879e812fc206ff884bb0b4019c220840
+Author: VersaceTupperware <zeber187@yahoo.com>
+Date:   Tue Sep 9 23:07:59 2025 -0700
+
+    index on main: 91490e3 Merge pull request #1 from VersaceTupperware/feature-about-me
+
+commit 91490e30ab2b4d3254daa3a9e0e7f19ac421232f
+Merge: f37cdce 596d94b
+Author: VersaceTupperware <78449826+VersaceTupperware@users.noreply.github.com>
+Date:   Tue Sep 9 22:59:55 2025 -0700
+
+    Merge pull request #1 from VersaceTupperware/feature-about-me
+    
+    Merging the changes to main
+
+commit 596d94bb288418b8be02f810fe10ce773bd1ea37
+Merge: 6886e13 f37cdce
+Author: VersaceTupperware <78449826+VersaceTupperware@users.noreply.github.com>
+Date:   Tue Sep 9 22:59:27 2025 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 6886e13693b1197fcac716881d9a4cfc9d0d0ab2
+Author: VersaceTupperware <zeber187@yahoo.com>
+Date:   Tue Sep 9 22:54:45 2025 -0700
+
+    Updating index.html
+    
+    I updated index.html with my info and deleted the code for the group portion of it
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
